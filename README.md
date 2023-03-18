@@ -4,7 +4,7 @@ Python script made for changing MAC address on linux machines
 ## Usage
 
 To get interface name (witch is required to change MAC address) follow these steps:
-1. Run `ifconfig` command in bash terminal, after you do so you should get out put like shown on example down below.
+1. Run `ifconfig` command in bash terminal, after you do so you should get output like shown on example down below.
 
 <p align="center">
   <img alt="issue" src="https://github.com/Josakko/MAC_Changer/blob/main/image.png?raw=true" width="650px">
