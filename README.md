@@ -26,7 +26,7 @@ In this example "eth0" an "lo" are interface names that you want to remember, on
 Usage example down below.
 
 <p align="center">
-  <img alt="issue" src="https://github.com/Josakko/MAC_Changer/blob/main/example.png?raw=true" width="650px">
+  <img alt="issue" src="https://github.com/Josakko/MAC_Changer/blob/main/example.png?raw=true" width="850px">
 </p>
 
 
