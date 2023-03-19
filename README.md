@@ -7,7 +7,7 @@ To get interface name (witch is required to change MAC address) follow these ste
 1. Run `ifconfig` command in bash terminal, after you do so you should get output like shown on example down below.
 
 <p align="center">
-  <img alt="issue" src="https://github.com/Josakko/MAC_Changer/blob/main/image.png?raw=true" width="650px">
+  <img alt="issue" src="https://github.com/Josakko/MAC_Changer/blob/main/screenshot.png?raw=true" width="650px">
 </p>
 
 In this example "eth0" an "lo" are interface names that you want to remember, one more example down below where there is only one interface.
