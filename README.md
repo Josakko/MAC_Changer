@@ -23,6 +23,13 @@ In this example "eth0" an "lo" are interface names that you want to remember, on
 
 2. Now once you now the name of the interface that you want to change MAC address run `main.sh` file that you downloaded from this repo.
 
+Usage example down below.
+
+<p align="center">
+  <img alt="issue" src="https://github.com/Josakko/MAC_Changer/blob/main/example.png?raw=true" width="650px">
+</p>
+
+
 ## Need Help?
 
 If you need help contact me on my [discord server](https://discord.gg/xgET5epJE6).
