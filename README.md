@@ -21,7 +21,9 @@ In this example "eth0" an "lo" are interface names that you want to remember, on
                 TX packets 0  bytes 0 (0.0 B)
                 TX errors 0  dropped 0 overruns 0  carrier 0  collisions 0
 
-2. Now once you now the name of the interface that you want to change MAC address run `main.sh` file that you downloaded from this repo.
+2. Now once you now the name of the interface that you want to change MAC address run `main.sh` file that you downloaded from this repo using following command:
+
+  bash main.sh
 
 Usage example down below.
 
